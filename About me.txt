@@ -1,0 +1,5 @@
+Name: [Deepsan]
+Age: [15]
+Favorite Subject: [PE]
+Hobbies: [Basketball, gaming]
+Fun Fact: [ i live in Everett WA]
